@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# EXPERIMENT
-words.txt
+# postgreSQL database credentials
+module2-sql-for-analysis/creds.txt
