@@ -103,6 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# postgreSQL database credentials
+# database credentials
 module2-sql-for-analysis/creds.txt
 module3-nosql-and-document-oriented-databases/creds.txt
+module4-acid-and-database-scalability-tradeoffs/p_creds.txt
+module4-acid-and-database-scalability-tradeoffs/m_creds.txt
