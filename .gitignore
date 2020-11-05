@@ -105,3 +105,4 @@ venv.bak/
 
 # postgreSQL database credentials
 module2-sql-for-analysis/creds.txt
+module3-nosql-and-document-oriented-databases/creds.txt
